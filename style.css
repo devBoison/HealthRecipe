@@ -1,0 +1,24 @@
+h1,
+h2,
+p,
+li {
+  font-family: Helvetica;
+}
+img {
+  height: 150px;
+}
+.description {
+  font-size: 20px;
+}
+#cook-time {
+  font-weight: bold;
+}
+ul.ingredients li {
+  list-style: square;
+}
+p.time {
+  color: grey;
+}
+.external-link {
+  color: seaGreen;
+}
